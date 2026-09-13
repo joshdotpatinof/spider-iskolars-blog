@@ -21,7 +21,7 @@
 		<div class="terminal-inner">
 			<div class="welcome-block">
 				<h2>Welcome to Spider-Iskolars Project Log</h2>
-				<p class="desc">Tracking software engineering updates, one entry at a time.</p>
+				<p class="desc">Tracking SAKUNA PH software updates, one entry at a time.</p>
 			</div>
 
 			<div class="divider">{'─'.repeat(50)}</div>
