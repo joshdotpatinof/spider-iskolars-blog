@@ -22,7 +22,7 @@ export const entries: Entry[] = [
 		description:
 			'Initial project plan and scope for the Spider-Iskolars software engineering project (CS 191).',
 		body: entry01,
-		url: 'https://docs.google.com/document/d/1BL0pBfiaeCWs1jGxk-Ss_8VxaPAoN6vho3zUtWxLdWk/edit?usp=sharing',
+		url: '../../project-plan.pdf',
 		urlLabel: 'View Project Plan →'
 	}
 ];
